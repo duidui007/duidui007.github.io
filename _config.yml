@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Rio_Yang
+description:      泽洋不落满霜天.
 logo:             site-logo.png
 disqus_shortname:
 search:           true
@@ -9,13 +9,13 @@ search:           true
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           ZeYang
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          247833821@qq.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:
   facebook:
-  github:
+  github:         duidui007.github.com
   stackexchange:
   linkedin:
   instagram:
