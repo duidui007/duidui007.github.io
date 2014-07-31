@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: About the Jekyll Theme
+title: About this blog
 tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
 modified: 2013-09-13
 image:
@@ -10,7 +10,7 @@ image:
   creditlink: http://mademistakes.com
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+大家好，这是我的博客，我将在这里和大家分享学习笔记和新知识。.
 
 ## So Simple Theme is all about:
 
